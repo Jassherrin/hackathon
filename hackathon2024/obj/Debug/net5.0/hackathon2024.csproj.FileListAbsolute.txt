@@ -5,7 +5,6 @@ c:\Users\acer\Documents\hackathon\hackathon2024\bin\Debug\net5.0\hackathon2024.d
 c:\Users\acer\Documents\hackathon\hackathon2024\bin\Debug\net5.0\hackathon2024.runtimeconfig.json
 c:\Users\acer\Documents\hackathon\hackathon2024\bin\Debug\net5.0\hackathon2024.runtimeconfig.dev.json
 c:\Users\acer\Documents\hackathon\hackathon2024\bin\Debug\net5.0\hackathon2024.dll
-c:\Users\acer\Documents\hackathon\hackathon2024\bin\Debug\net5.0\ref\hackathon2024.dll
 c:\Users\acer\Documents\hackathon\hackathon2024\bin\Debug\net5.0\hackathon2024.pdb
 c:\Users\acer\Documents\hackathon\hackathon2024\bin\Debug\net5.0\hackathon2024.Views.dll
 c:\Users\acer\Documents\hackathon\hackathon2024\bin\Debug\net5.0\hackathon2024.Views.pdb
@@ -18,7 +17,6 @@ c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.M
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.RazorAssemblyInfo.cache
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.RazorAssemblyInfo.cs
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\staticwebassets\hackathon2024.StaticWebAssets.Manifest.cache
-c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\staticwebassets\hackathon2024.StaticWebAssets.xml
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\scopedcss\bundle\hackathon2024.styles.css
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.TagHelpers.input.cache
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.TagHelpers.output.cache
@@ -36,5 +34,12 @@ c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.d
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\ref\hackathon2024.dll
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.pdb
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.genruntimeconfig.cache
-c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.csproj.CopyComplete
 C:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\Razor\Views\Home\UploadIncome.cshtml.g.cs
+c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.sourcelink.json
+c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\staticwebassets\hackathon2024.StaticWebAssets.Pack.cache
+c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\staticwebassets\msbuild.hackathon2024.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\staticwebassets\msbuild.build.hackathon2024.props
+c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.hackathon2024.props
+c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.hackathon2024.props
+c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\refint\hackathon2024.dll
+c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackatho.5AEEED13.Up2Date
