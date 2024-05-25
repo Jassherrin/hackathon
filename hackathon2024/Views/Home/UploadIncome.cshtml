@@ -1,7 +1,11 @@
-@{
-    ViewData["Title"] = "Upload Income";
-}
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Income</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    
 <h1>Upload Income</h1>
 
 <div>
@@ -13,3 +17,19 @@
         <button type="submit" class="btn btn-primary">Upload</button>
     </form>
 </div>
+    <div id="chatbox" class="collapsed">
+        <div id="chat-header">
+            <button id="chat-toggle" onclick="toggleChat()">Chat</button>
+        </div>
+        <div id="chat-messages">
+            <div class="message received">Hello! How can I assist you today?</div>
+        </div>
+        <div id="chat-input">
+            <input type="text" id="user-message" placeholder="Type your message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

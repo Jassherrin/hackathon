@@ -37,5 +37,4 @@ c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\ref\hackathon20
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.pdb
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.genruntimeconfig.cache
 c:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\hackathon2024.csproj.CopyComplete
-C:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\Razor\Views\MonthlyIncome\UploadIncome.cshtml.g.cs
 C:\Users\acer\Documents\hackathon\hackathon2024\obj\Debug\net5.0\Razor\Views\Home\UploadIncome.cshtml.g.cs

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj": {}
+    "c:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj": {
+    "c:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj",
+        "projectUniqueName": "c:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj",
         "projectName": "hackathon2024",
-        "projectPath": "C:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj",
+        "projectPath": "c:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\obj\\",
+        "outputPath": "c:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
