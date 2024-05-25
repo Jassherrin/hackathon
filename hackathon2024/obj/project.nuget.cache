@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "c/Jm/VK+0eFq5E/sRdjWlLKGTCqc6ZN1hDjZeafaYJlmAm2uiD+A65lK1TCmOruYbHghtM3WjJacxpy3UUvyuw==",
+  "dgSpecHash": "SnRDoBbjBHg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\acer\\Documents\\hackathon\\hackathon2024\\hackathon2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
