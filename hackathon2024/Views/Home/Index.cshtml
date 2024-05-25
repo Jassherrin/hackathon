@@ -1,9 +1,36 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿
 
-<div class="text-center">
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page</title>
+
     <h1 class="display-4">Welcome to Retirement Planning</h1>
+
+
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+    <div class="text-center">
+    
     <p>Start planning your financially secure retirement today!</p>
     <a href="@Url.Action("Retirement", "Home")" class="btn btn-primary">Get Started</a>
-</div>
+    </div>
+    <div id="chatbox" class="collapsed">
+        <div id="chat-header">
+            <button id="chat-toggle" onclick="toggleChat()">Chat</button>
+        </div>
+        <div id="chat-messages">
+            <div class="message received">Hello! How can I assist you today?</div>
+        </div>
+        <div id="chat-input">
+            <input type="text" id="user-message" placeholder="Type your message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
